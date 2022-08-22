@@ -30,11 +30,7 @@ const Home = () => {
         <div className="heroTextContainer">
           <div className="heroText">RAGGZS</div>
         </div>
-        <div className="description">
-          Illustrated gear for alternative individuals. Sed ut perspiciatis unde
-          omnis iste natus error sit voluptatem accusantium doloremque
-          laudantium, totam rem aperiam.
-        </div>
+        <div className="description">Canvas Bags.</div>
         <div className="buttonContainer">
           <button
             onClick={() => router.push("https://raggzs.bigcartel.com/")}
